@@ -11,7 +11,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Code Highlight](#code-highlight)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledges](#acknowleges)
 
 ## Overview
 
@@ -64,7 +66,13 @@ Users should be able to:
 }
 ```
 
+### Useful resources
+- [@Demarcus11](https://www.frontendmentor.io/solutions/blog-preview-card-383Q-d2AE_) - very detail and structured solution. 
+
 ## Author
 
 - Website - [Edward Pau](https://www.edpau.me)
 - Frontend Mentor - [@edpau](https://www.frontendmentor.io/profile/edpau)
+
+### Acknowledges
+Thank you @Demarcus11
