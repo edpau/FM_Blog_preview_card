@@ -42,8 +42,9 @@ Users should be able to:
 
 ### Code Highlight
 
-- learning yellow pill shape background
+- learning yellow box shape background
   - display: inline-block;
+  - or width: fit-content; 
 
 ```css
 .card__genre-heading {

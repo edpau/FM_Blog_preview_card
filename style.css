@@ -43,7 +43,7 @@ body {
   box-shadow: 10px 10px 0px var(--black);
 }
 
-.card-img {
+.card__img {
   border-radius: 10px;
   object-fit: cover;
   width: 100%;
@@ -51,7 +51,8 @@ body {
 }
 
 .card__genre-heading {
-  display: inline-block;
+  /* display: inline-block; */
+  width: fit-content;
   background-color: var(--yellow);
   padding: 6px 9px;
   border-radius: 4px;
